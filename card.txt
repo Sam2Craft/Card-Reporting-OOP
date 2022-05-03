@@ -1,0 +1,8 @@
+3467#Tops#John#4.56
+5678#Tops#Sam#7.89
+1223#Tops#Don#5.66
+3333#Tops#Amy#10.00
+7789#Cardz#Chase#7.12
+2280#Cardz#Riva#2.84
+1111#Cardz#Cara#0.01
+8336#Cardz#Bama#6.66
